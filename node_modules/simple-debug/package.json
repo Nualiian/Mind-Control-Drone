@@ -1,0 +1,17 @@
+{
+  "name": "simple-debug",
+  "version": "1.1.2",
+  "description": "simple tool to limit log output",
+  "keywords": ["debug", "log", "debugger", "simple"],
+  "author": "Tim Shadel <tim@shadelsoftware.com>",
+  "repository": { "type": "git", "url": "git+https://github.com/timshadel/simple-debug.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index"
+}

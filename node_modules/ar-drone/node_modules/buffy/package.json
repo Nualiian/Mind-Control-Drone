@@ -1,0 +1,27 @@
+{
+  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "contributors": [
+    "Bernhard K. Weisshuhn <bkw@codingforce.com>"
+  ],
+  "name": "buffy",
+  "description": "A module to read / write binary data and streams.",
+  "version": "0.0.4",
+  "homepage": "https://github.com/felixge/node-buffy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixge/node-buffy.git"
+  },
+  "main": "./index",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {},
+  "optionalDependencies": {},
+  "devDependencies": {
+    "utest": "0.0.6",
+    "urun": "0.0.6"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
